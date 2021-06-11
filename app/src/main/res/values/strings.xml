@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crudapp</string>
+    <string name="insert_student">INSERT STUDENT</string>
+    <string name="name">Syahril Ramadhan</string>
+    <string name="nim">D121181010</string>
+    <string name="fakultas">Fakultas Teknik Departemen Teknik Informatika</string>
+</resources>
